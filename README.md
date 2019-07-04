@@ -1,2 +1,4 @@
 # savepro
 
+detail info
+
